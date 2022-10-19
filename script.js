@@ -1,4 +1,4 @@
-function tabuada(){
+function tabuada() {
     var numero = document.getElementById('n')
     var calc = document.getElementById('calc')
 
