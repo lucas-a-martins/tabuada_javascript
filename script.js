@@ -4,7 +4,7 @@ function tabuada() {
 
     if (numero.value.length == 0) {
         window.alert('Por favor, digite um número!')
-    }else {
+    } else {
         calc.innerHTML = ''
         var n = Number(numero.value)
         for (var c = 1; c <= 10; c++) {
